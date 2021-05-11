@@ -1,0 +1,17 @@
+#mensaje{
+    visibility: hidden;
+}
+.puntero:hover {
+    cursor: pointer;
+}
+
+.textoresaltado{
+    background-color: gold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.colortexto{
+
+    color: rgb(126,15, 100);
+    color:#7e0f64;
+}

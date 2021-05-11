@@ -1,0 +1,15 @@
+
+.mensaje {
+    background-color:darkseagreen;
+}
+
+body {
+    background-image: url('./imagenes/gato.jpg');
+background-repeat: no-repeat;
+background-position: center top;
+background-attachment: fixed;
+}
+p.colortexto{
+
+color: #d3cbb7;
+}
